@@ -1,4 +1,4 @@
-**#Experiment 1: EDA in IPL Dataset**
+## Experiment 1: EDA in IPL Dataset
 
 **Aim:**
 To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive insights about matches per season, winning teams, toss decisions, and top venues.
@@ -29,7 +29,7 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive
   Identify teams with consistent winning trends.
   
   **Program**
- ```
+ ```py
  import pandas as pd
  import matplotlib.pyplot as plt
  import seaborn as sns
